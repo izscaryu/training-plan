@@ -1,0 +1,15 @@
+{
+  "name": "Training plan",
+  "short_name": "Training",
+  "description": "Semester strength and Muay Thai plan with a lift log.",
+  "start_url": "./#/today",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F4F5",
+  "theme_color": "#182033",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
